@@ -61,13 +61,6 @@ This app is a utility for casual and recreational use. Please prioritize safety 
 
 ---
 
-## Credits
-
-Originally inspired by MotoChat.  
-Renamed and maintained as **iMotorCom**.
-
----
-
 ## Feedback
 
 Got suggestions, issues, or ideas to make iMotorCom better?  
